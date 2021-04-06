@@ -1,0 +1,4 @@
+1- To create a hidden file we use the command: attrib +s +h C:/users/user/desktop/filex
+to display it again we use the command: attrib -s -h c:/users/user/desktop/filex
+2- To create a multiple nested directories we use the command: mkdir -p year/month/week/day
+3- To append a message to a file we use: cat >> file.txt , enter, then typing a message, and after finishing ctrl+z
