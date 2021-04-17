@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+   
+    font-size: x-large;
+    background-image: url(background.JPG.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+
+
+header {
+    background-color: rgb(161, 144, 46);
+    text-align: center;
+    padding: 5px;
+    
+}
+
+.contact-info {
+    list-style-type: none;
+
+}
+.resume_picture {
+    border-radius: 50%;
+
+
+}
+
+ul {
+    margin: 20px;
+}
+
+ul li {
+    font-size: x-large;
+    font-family: Didot, serif;
+    font-weight: 500;
+    margin: 5px;
+    
+}
+
+h1 {
+    font-family: cursive;
+    color: rgb(88, 68, 38);
+
+
+}
+
+h2 {
+    margin: 5px;
+    font-family: cursive;
+    color: rgb(88, 68, 38);
+
+}
+
+p {
+    font-family: Didot, serif;
+     
+
+}
+.contact-info {
+    color: rgb(54, 9, 9);
+}
+
+.personal-statment {
+    
+    padding-left: 25%;
+    padding-right: 25%;
+    margin: 10px;
+    text-align: center;
+
+}
+
+.work-experience {
+    margin: 10px;
+    padding-top: 15px;
+    
+}
+
+.education {
+    margin: 10px;
+    padding-left: 50%;
+   
+}
+
+.languages {
+    margin: 10px;
+    
+
+}
+
+.competences {
+    margin: 10px;
+    padding-left: 50%;
+    
+}
+
+.voluntary-work {
+    margin: 10px;
+
+}
