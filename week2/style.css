@@ -87,7 +87,7 @@ img {
 }
 
 .grid-floats .grid-item:nth-child(1) {
-    width: 700px;
+    width: 45.7%;
 }
 
 
@@ -101,7 +101,7 @@ img {
 }
 
 .grid-flex .grid-item:nth-child(1) {
-   max-width: 700px;
+   max-width: 45.7%;
     
 }
 
